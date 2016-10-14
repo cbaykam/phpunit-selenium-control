@@ -1,0 +1,14 @@
+{
+    "name": "cbaykam/php-selenium-control",
+    "description": "Starts selenium server on test start and stops after tests end",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cem Baykam",
+            "email": "cbaykam@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
