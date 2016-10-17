@@ -8,7 +8,7 @@ Launches the selenium server on test start and stops when tests end s
   - include the Phpunit Test listener in your phpunit.xml file 
     ``` 
     <listeners>
-      <listener class="My_Test_Listener" file="./vendor/cbaykam/php-selenium-control/PhpUnitTestListeners.php">
+      <listener class="PhpUnitTestListener" file="./vendor/cbaykam/php-selenium-control/PhpUnitTestListeners.php">
     </listener>
     ```
 
