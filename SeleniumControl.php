@@ -1,5 +1,5 @@
 <?php 
-  namespace CBaykam\SeleniumControl; 
+  namespace Cbaykam\SeleniumControl; 
 
   require('setup.php'); 
 
